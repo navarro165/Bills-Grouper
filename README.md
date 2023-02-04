@@ -18,13 +18,6 @@ A simple Python script that reads in an expenses data in text format and writes 
     ```
 7. The script will write the expenses data to a CSV file in the same directory as the input file.
 
-## File structure
-
-- `expense_tracker.py`: The main script that reads in expenses data and writes it to a CSV file.
-
-## Dependencies
-
-- `csv`: The built-in Python library for reading and writing CSV files.
 
 ## License
 

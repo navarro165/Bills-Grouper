@@ -1,6 +1,6 @@
 # Expense Tracker
 
-A simple Python script that reads in an expenses data in text format and writes it to a CSV file.
+WIP: A simple Python script that reads in an expenses data in text format and writes it to a CSV file.
 
 ## How to run the script
 

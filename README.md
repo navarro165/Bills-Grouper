@@ -17,8 +17,3 @@ A simple Python script that reads in an expenses data in text format and writes 
     ComEd: 120
     ```
 7. The script will write the expenses data to a CSV file in the same directory as the input file.
-
-
-## License
-
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
